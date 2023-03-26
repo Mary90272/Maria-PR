@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Maria-PR/static/css/main.bdcc8913.css",
+    "main.js": "/Maria-PR/static/js/main.2888ab50.js",
+    "static/js/787.d168572b.chunk.js": "/Maria-PR/static/js/787.d168572b.chunk.js",
+    "static/media/portfolio.png": "/Maria-PR/static/media/portfolio.e3cbc6f24c439d0ae719.png",
+    "static/media/box2.jpg": "/Maria-PR/static/media/box2.ce8c8c750ef6eef67794.jpg",
+    "static/media/box 1.jpg": "/Maria-PR/static/media/box 1.202ba7561bbb67dc41d2.jpg",
+    "static/media/header.jpg": "/Maria-PR/static/media/header.0986cd33a08bf5b4f3d5.jpg",
+    "static/media/lastone.jpeg": "/Maria-PR/static/media/lastone.3ce57eae3c04924f6ec2.jpeg",
+    "static/media/Maria_Fedorova_Resume_2.pdf": "/Maria-PR/static/media/Maria_Fedorova_Resume_2.588f1864e0c5c152fec6.pdf",
+    "static/media/resume.png": "/Maria-PR/static/media/resume.f1b403e2ec7fa2a663f8.png",
+    "static/media/userpass.png": "/Maria-PR/static/media/userpass.5f4bb5948aeaa672298b.png",
+    "static/media/WORK.png": "/Maria-PR/static/media/WORK.3e22b34b0c55bfb2b181.png",
+    "static/media/weather.png": "/Maria-PR/static/media/weather.bc4a5fff648ddf877b7a.png",
+    "static/media/quizgame.png": "/Maria-PR/static/media/quizgame.24fbb5aebef6e03f9eee.png",
+    "static/media/texteditor.png": "/Maria-PR/static/media/texteditor.791b8e1514d14126d8fa.png",
+    "index.html": "/Maria-PR/index.html",
+    "main.bdcc8913.css.map": "/Maria-PR/static/css/main.bdcc8913.css.map",
+    "main.2888ab50.js.map": "/Maria-PR/static/js/main.2888ab50.js.map",
+    "787.d168572b.chunk.js.map": "/Maria-PR/static/js/787.d168572b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdcc8913.css",
+    "static/js/main.2888ab50.js"
+  ]
+}
