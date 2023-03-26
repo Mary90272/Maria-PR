@@ -21,6 +21,6 @@ Open VsCode Terminal<br>
 ![alt text](assets/images/Screenshot 2023-03-21 103712.png)
 ## Relevant Links
 
-GitHub Repo:https:
+GitHub Repo: https://github.com/Mary90272/Maria-PR
 <br>
-Deployed Application:
+Deployed Application: https://mary90272.github.io/Maria-PR/
