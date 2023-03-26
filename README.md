@@ -16,11 +16,10 @@ Open VsCode Terminal<br>
 
 
 ## Images of Deployed Application
-![Screenshot](Screenshot 2023-03-21 103712.png)(assets/images/Screenshot 2023-03-21 103712.png)
-![Screenshot](/assets/images/Screenshot 2023-03-21 103712.png)
+
 ![alt text](assets/images/newpage1.png)
 ![alt text](assets/images/newpage2.png)
-![alt text](assets/images/Screenshot 2023-03-21 103712.png)
+
 ## Relevant Links
 
 GitHub Repo: https://github.com/Mary90272/Maria-PR
