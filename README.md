@@ -16,8 +16,8 @@ Open VsCode Terminal<br>
 
 
 ## Images of Deployed Application
-![alt text](/assets/images/Screenshot 2023-03-21 103712.png)
-
+![alt text](assets/images/Screenshot 2023-03-21 103712.png)
+![alt text](assets/images/Screenshot 2023-03-21 103738.png)
 
 ## Relevant Links
 
