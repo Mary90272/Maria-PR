@@ -13,7 +13,7 @@ Open VsCode Terminal<br>
 -App listening on port 3001!<br>
 ## Deploy on GitHub<br>
 -Don't add readme file<br>
--in App.js change <BrowserRouter> on <HashRouter><br>
+-in App.js change BrowserRouter on HashRouter<br>
 -added to package json: <br>
 "homepage": "https://username.github.io/projectname",<br>
 - in script :<br>
